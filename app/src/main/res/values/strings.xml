@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Pertemuan2</string>
+    <string name="motor">Motor Harley</string>
+    <string name="tEmail"></string>
+    <string name="tPassword">Password</string>
+    <string name="bsignin">Sign-In</string>
+</resources>
